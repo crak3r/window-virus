@@ -3,5 +3,6 @@
  
  
  
-git clone https://github.com/crak3r/window-virus.git
-cd window-virus
+ git clone https://github.com/crak3r/window-virus.git
+
+ cd window-virus
